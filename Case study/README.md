@@ -1,5 +1,6 @@
 # Case Study 1
 # Coffee Vending Machine
+![case study](https://user-images.githubusercontent.com/46950972/154839983-35ebefbb-92a2-48f2-8a7e-aeff6b0c728f.png)
 
 
 ## High level Requirements
