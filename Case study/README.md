@@ -2,7 +2,6 @@
 # Coffee Vending Machine
 ![case study](https://user-images.githubusercontent.com/46950972/154839983-35ebefbb-92a2-48f2-8a7e-aeff6b0c728f.png)
 
-
 ## High level Requirements
 - H01 User should select the type of coffee like filter coffee or normal coffee.
 - H02 User should make sure power is turned ON.
@@ -28,8 +27,7 @@ An EPROM is type of memory chip that retains its power supply is switched off. E
 
 # Case Study 2
 # Washing Machine 
-
-
+![embedde](https://user-images.githubusercontent.com/46950972/154841160-d8c08454-0d49-4d2c-bdd8-a89706f937d2.png)
 
 ## High level Requirements
 - H01 Washing machine should provide one option to wash their laundry quickly.
