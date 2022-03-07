@@ -17,6 +17,9 @@ The primary purpose of fire detection alarm system is to provide an early warnin
 
 - RESISTOR - A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
 
+# SWOT Analysis
+
+
 # 4W's and 1H
 
 ## Who
