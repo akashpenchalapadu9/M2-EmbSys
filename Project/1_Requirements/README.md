@@ -18,6 +18,8 @@ The primary purpose of fire detection alarm system is to provide an early warnin
 - RESISTOR (10KΩ ,220Ω), Button.
 
 # SWOT Analysis
+![emSWOT](https://user-images.githubusercontent.com/46950972/157074454-88d83ba6-de7f-4329-8990-2e9f91c62e3f.png)
+
 
 
 # 4W's and 1H
