@@ -4,9 +4,6 @@
 The automatic dustbin is a carefully designed solution that solves the social issue of waste disposal; the smart dustbin identifies the kind of material being thrown inside it and segregates it into bio or non-biodegradable. since the automatic dustbin is additionally intriguing and kids make fun with it so they help to keep clean your home. they generally will be utilized to through all trash and waste into this smart dustbin.smart dustbin opens and closes it’s top when somebody is before it. when you come before it. it’s top get open. also, when you toss the loss into it then it closes independent from anyone else. When the bin is full it give indication by led.
 
 
-# SWOT Analysis
-![swot](https://user-images.githubusercontent.com/46933088/157000822-dfb7a744-7063-4b98-a572-23cb5a89e4bf.jpg)
-
 # 4W's and 1'H
 ## Who
 - This system will useful in everywere like in home, govt sectors, public places.
@@ -22,6 +19,10 @@ The automatic dustbin is a carefully designed solution that solves the social is
 
 ## How
 - This system is more helpful in maintaining clean society with advanced technology. that is when person moves towards the dustbin it open automatically and if moves away it closes automatically.
+
+# SWOT Analysis
+![swot](https://user-images.githubusercontent.com/46933088/157000822-dfb7a744-7063-4b98-a572-23cb5a89e4bf.jpg)
+
 
 # Reqirements
 ## High Level Requirement
