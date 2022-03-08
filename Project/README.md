@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/37f397e063544442bb95aa5ef09724f3)](https://www.codacy.com/gh/akashpenchalapadu9/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akashpenchalapadu9/M2-EmbSys&amp;utm_campaign=Badge_Grade)
