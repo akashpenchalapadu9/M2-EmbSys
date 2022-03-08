@@ -1,7 +1,7 @@
 # Architecture
 
 # Block diagram
-![block](https://user-images.githubusercontent.com/46933088/156998436-79fccf2a-2481-451b-ab33-a0d1edf55125.jpg)
+![aaaaaaaaaa](https://user-images.githubusercontent.com/46950972/157257632-6c23c74f-4c1d-447d-b813-2c2e5bb8cc71.png)
 
 # Components
 
