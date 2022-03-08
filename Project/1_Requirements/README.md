@@ -38,7 +38,7 @@ The automatic dustbin is a carefully designed solution that solves the social is
 
 | ID | Description |  
 | ----- | ----- |
-| LLR01 |When the person moves towards the dustbin then the Ultrasonic sensor senses it and then provide signals to  servomotor,the it will should rotate 90 degrees to open the top of Dustbin |
+| LLR01 |When the person moves towards the dustbin then the Ultrasonic sensor senses it and then provide signals to  servomotor,then it will should rotate 90 degrees to open the top of Dustbin |
 | LLR02 |When the ultrasonic detects user is moving away from the Dustbin servomotor should rotate 90 degrees(opposite direction) to close the top of Dustbin| 
 | LLR03 | IR sensor detects Dustbin is full by turning ON LED |
 | LLR04 | When the Dustbin is empty the LED should turn OFF |
