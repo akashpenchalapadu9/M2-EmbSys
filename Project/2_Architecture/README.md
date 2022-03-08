@@ -1,4 +1,5 @@
 # Block Diagram
+![block diagram emb](https://user-images.githubusercontent.com/46950972/157195975-f2513762-21a6-460b-afe6-ef7f16f7f4c1.png)
 
 
 
