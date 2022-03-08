@@ -21,7 +21,8 @@ The automatic dustbin is a carefully designed solution that solves the social is
 - This system is more helpful in maintaining clean society with advanced technology. that is when person moves towards the dustbin it open automatically and if moves away it closes automatically.
 
 # SWOT Analysis
-![swot](https://user-images.githubusercontent.com/46933088/157000822-dfb7a744-7063-4b98-a572-23cb5a89e4bf.jpg)
+
+![swot bin](https://user-images.githubusercontent.com/46950972/157291290-aca28fce-594d-4aab-85c2-64092321b6c3.jpg)
 
 
 # Reqirements
