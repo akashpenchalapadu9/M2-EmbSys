@@ -1,15 +1,18 @@
-# Block Diagram
-![block diagram emb](https://user-images.githubusercontent.com/46950972/157195975-f2513762-21a6-460b-afe6-ef7f16f7f4c1.png)
+# Architecture
 
-
+# Block diagram
+![block](https://user-images.githubusercontent.com/46933088/156998436-79fccf2a-2481-451b-ab33-a0d1edf55125.jpg)
 
 # Components
-- ATMEGA8 : An ATMega Microcontroller is an 8-bit microcontroller with Reduced Instruction Set (RISC) based Harvard Architecture.
 
-- Power supply : A power supply is an electrical device that supplies electric power to an electrical load. The main purpose of a power supply is to convert electric current from a source to the correct voltage.
+1. Arduino UNO  - Arduino UNO is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
 
-- Servo motor (sg90):Servo motors (or servos) are self-contained electric devices that rotate or push parts of a machine with great precision.
+2. Ultrasonic Sensor - An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
 
-- BUZZER : A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric(piezo for short). Typical uses of buzzers and beepers include alarm devices, timers, and confirmation of user input such as a mouse click or keystroke.
+3. IR sensor - An infrared sensor (IR sensor) is a radiation-sensitive optoelectronic component with a spectral sensitivity in the infrared wavelength.IR sensors are now widely used in motion detectors, which are used in building services to switch on lamps or in alarm systems to detect unwelcome guests.
 
-- RESISTOR (10KΩ ,220Ω), Button.
+4. Servo motor - A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
+
+5. LED - (light-emitting diode) a semiconductor diode that emits light when conducting current and is used in electronic displays, indoor and outdoor lighting.
+
+6. Potentiometer - A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
