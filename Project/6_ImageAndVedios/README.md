@@ -1,18 +1,22 @@
 # Simulide
-## Automatic dustbin vedio dustbin
+
 
 ## Automatic Dustbin
-![dustbin](https://user-images.githubusercontent.com/46950972/157260599-c7704397-aa72-4d6c-9930-e523df4ba2fd.png)
+![dustbin](https://user-images.githubusercontent.com/46950972/157281220-9b9df32d-a6aa-4e70-b058-4b57815276d6.png)
+
 
 ## Dustbin Closed
- ![dustbinclosed](https://user-images.githubusercontent.com/46950972/157260657-fa9162a5-db89-4d3a-a18d-d198f87b2129.png)
+ ![dustbinclosed](https://user-images.githubusercontent.com/46950972/157281278-7281545e-f181-471f-806f-b51f07ca80e5.png)
+
  
 ## Dustbin Open 
-![dustbinopen](https://user-images.githubusercontent.com/46950972/157260682-08b29f34-45eb-4878-9cc2-786118cb6520.png)
+![dustbinopen](https://user-images.githubusercontent.com/46950972/157281315-57ff19d2-2d14-4888-ac55-53d656092f6a.png)
+
 
 ## Dustbin (Led on)
-![dustbinledon](https://user-images.githubusercontent.com/46950972/157260774-8d73cc74-1bbb-4e6e-9090-1e7102f8fd2b.png)
+![dustbinledon](https://user-images.githubusercontent.com/46950972/157281356-ae7e1fe3-59bc-48af-9bc0-1a98ef59a524.png)
+
 
 ## Dustbin (Led off)
- ![dustbinledoff](https://user-images.githubusercontent.com/46950972/157260839-192b84ca-704a-4588-bb07-80ddf13c189a.png)
+ ![dustbinledoff](https://user-images.githubusercontent.com/46950972/157281419-8c32d391-5046-47cb-82da-b7e50e1927d2.png)
 
